@@ -24,3 +24,8 @@ To get started with these AI algorithms, you'll need:
 
 ```bash
 git clone https://github.com/your-username/ai-algorithms.git
+
+```
+## Contributions
+
+Contributions are welcome! If you have suggestions for improvements, additional algorithms to include, or bug fixes, please open an issue or submit a pull request. We encourage collaboration and aim to create a valuable resource for the AI and computer science community.
